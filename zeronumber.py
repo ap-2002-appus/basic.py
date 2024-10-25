@@ -1,7 +1,7 @@
 '''
 Author:Ibin Siby
 Date :25-10-2024
-discription:python program for checking the given number is possitive or negative
+discription:python program for checking the given number is possitive,negative and zero
 '''
 
 
