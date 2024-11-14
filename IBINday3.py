@@ -12,9 +12,9 @@ Use if and if-else statements to print:
 age=int(input("Enter your age:"))
 if(age<13):
     print("You are a Child")
-elif(age>13 and age<19):
+elif(age>=13 and age<=19):
     print("You are a Teen")
-elif(age>20 and age<64):
+elif(age>=20 and age<=64):
     print("You are an Adult")
 else:
     print("You are a Senior")
