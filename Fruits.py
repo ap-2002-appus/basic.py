@@ -7,15 +7,15 @@ python program fo performing the following operations
 3.create a tuple of strings and use a loop to print only the strings that start with the letter 'b'.
 
 '''
-numbers=(10,20,30,40,50)
+tuple=(10,20,30,40,50)
 print("all elements:")
-for num in numbers:
+for num in tuple:
     print(num)
 
 print("elements in reverse order:")
-i=len(numbers)-1
+i=len(tuple)-1
 while i>=0:
-    print(numbers[i])
+    print(tuple[i])
     i=i-1
 
 fruits=("apple","banana","cherry","blueberry")
